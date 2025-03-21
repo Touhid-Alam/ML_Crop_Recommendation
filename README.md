@@ -78,16 +78,16 @@ The dataset used in this study is the **Crop Recommendation Dataset**, sourced f
 | AdaBoost            | 27.27%           | 17.05%    | 27.27% | 18.69%   | 0.4585                       |
 
 ## Visualizations of the findings
-
-### Key Findings
-- **KNN** outperformed all other models with a **testing accuracy of 99.77%** and the **lowest computational cost**.
-- **Rainfall![fig 7](https://github.com/user-attachments/assets/1b567f47-b7e8-42fd-82a7-d81d9b717d15)
+![fig 7](https://github.com/user-attachments/assets/1b567f47-b7e8-42fd-82a7-d81d9b717d15)
 ![fig 14](https://github.com/user-attachments/assets/708df4af-c498-47ff-84e2-24a3e1310421)
 ![fig 12](https://github.com/user-attachments/assets/5663caf4-8117-434b-af99-884e9502f3bb)
 ![fig 11](https://github.com/user-attachments/assets/cbdc9ded-d2ff-4928-858e-cf635b82ddab)
 ![fig 10](https://github.com/user-attachments/assets/0025d1a2-c428-4361-b9ed-8ea6eed686f9)
 ![fig 9](https://github.com/user-attachments/assets/416efe49-8ffb-419f-9312-0c12785e014a)
 ![fig 8](https://github.com/user-attachments/assets/4cfc8102-628f-48ca-a077-6062f45f65b3)
+### Key Findings
+- **KNN** outperformed all other models with a **testing accuracy of 99.77%** and the **lowest computational cost**.
+- **Rainfall
 **, **Nitrogen**, and **Humidity** were identified as the most important features for crop recommendation.
 - **AdaBoost** underperformed due to its reliance on weak learners and sensitivity to data patterns.
 
